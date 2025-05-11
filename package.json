@@ -1,0 +1,24 @@
+{
+  "name": "sistemacrud",
+  "version": "1.0.0",
+  "description": "Projeto NodeJs e MySql",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "express-handlebars",
+    "bootstrap",
+    "mysql"
+  ],
+  "author": "Bruno Nascimento",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.6",
+    "express": "^5.1.0",
+    "express-handlebars": "^8.0.3",
+    "mysql2": "^3.14.1",
+    "nodemon": "^3.1.10"
+  }
+}
